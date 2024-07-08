@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "732763203342",
+    "firebase_url": "https://panyero-main-rm3vy0-default-rtdb.firebaseio.com",
+    "project_id": "panyero-main-rm3vy0",
+    "storage_bucket": "panyero-main-rm3vy0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732763203342:android:489317ca122e857796995f",
+        "android_client_info": {
+          "package_name": "com.mainpanyeroapp.mservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732763203342-m3udjeqa3detg74k6b2njqab3gap6sc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mainpanyeroapp.mservices",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "732763203342-910kdgate853ro59jggpkv3k5qvjiv93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmNwBFH08-CLwnElucEJCTA_3-l9mf64M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732763203342-910kdgate853ro59jggpkv3k5qvjiv93.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "732763203342-knn071mp386ihjg81t89i8tcnn3najbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mainpanyeroapp.mservices"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
